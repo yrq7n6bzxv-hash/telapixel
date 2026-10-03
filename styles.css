@@ -12,3 +12,5 @@
 @media(max-width:380px){.nav{flex-wrap:wrap;gap:8px}.nav-links{width:100%;max-width:none;justify-content:space-between}.hero-art{padding:20px}.eyebrow .badge{display:table;margin:10px 0 0}}
 
 .hero>* , .split>* , .ai-note>* {min-width:0}
+
+.tablet-visual{margin:0;padding:20px}.visual .tablet-screen{width:100%;max-width:100%;max-height:none}
